@@ -67,5 +67,5 @@ Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para m
 
 ---
 
-🔗 **Autor:** [Seu Nome](https://github.com/GustavoLibano)
+🔗 **Autor:** [Gustavo](https://github.com/GustavoLibano)
 
